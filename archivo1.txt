@@ -1,2 +1,4 @@
 curso de git, control de versiones
 haciendo un cambio
+proceso 1
+proceso 2
